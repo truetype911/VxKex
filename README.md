@@ -67,7 +67,8 @@ success. I hope to address this shortcoming in a future release.
 - WinDbg (classic from Windows 11 SDK, and preview)
 - Yuzu (gameplay was not tested)
 - Zig
-
+- Bloody WorkShop 8 2026.0422 mouse detected, modes and cpi changes also detected
+  
 See the **Application Compatibility List.docx** file, which is installed together
 with VxKex, for more information.
 
